@@ -34,7 +34,7 @@ curl --location 'http://localhost:5000/api/v1/users/login' \
     "email":"harshit@gmail.com",
     "password":"Aa@123"
 }'
-```
+``` 
 
 --- 
 
